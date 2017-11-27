@@ -1,0 +1,3 @@
+LPUSH bmg_s_job01_CR Dbname=ora96|Tabname=TESTJPTABLEMK|Username=wen|Passwd=wen|SB=1|EB=-1|
+
+会读取table.txt和genProTab.txt,v3Pro文件夹
